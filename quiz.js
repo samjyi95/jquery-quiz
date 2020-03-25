@@ -64,8 +64,8 @@ const nextQuestion = () => {
     $('input[name="radio"]').prop('checked', false);
 
     questionNumber++
-    if (i = 0; i < questions.length; i++){
-        //prompt the question 
+    if (i = 0; i < questions.length; i++) {
+         
     } else {
         //stop the prompt 
     }
